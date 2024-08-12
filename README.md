@@ -1,2 +1,2 @@
 # salesvelocitycalculator
-Throwaway hosting
+Throwaway hosting for my Sales Velocity Calculator.
