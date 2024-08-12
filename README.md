@@ -1,0 +1,2 @@
+# salesvelocitycalculator
+Throwaway hosting
